@@ -1,0 +1,3 @@
+[submodule "git_module"]
+	path = git_module
+	url = https://github.com/black-pigeon/git_module.git
